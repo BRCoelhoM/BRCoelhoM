@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    Eu sou o Bruno
+    Eu sou o Bruno Coelho Martins
     <br><br>
     Analista de dados.
     <br><br>
