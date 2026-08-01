@@ -5,7 +5,7 @@
     Eu sou o Bruno Coelho Martins
     <br><br>
     Analista de dados.
-    <br><br>
+    <br>
     Buscando aprimorar meu conhecimentos em dados e Inteligência Artifical.
     <br><br>
      
